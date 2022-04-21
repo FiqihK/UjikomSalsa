@@ -1,0 +1,19 @@
+cara Install
+
+buat database => ujikom
+lalu kik ekspor dan pilih fie ujikom.sql
+
+untuk mengakses
+
+user => https://localhost/ujikom
+
+oprator/resepsonis => https://localhost/ujikom/oprator
+
+Admin => https://localhost/ujikom/oprator
+
+Login  Admin =>  Admin
+                 Admin
+
+
+Login Oprator => Salsa
+                 123456789
